@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+target/
+# captures and listening packages are never committed
+*.wav
+*.npy
+*.npz
