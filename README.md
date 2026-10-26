@@ -9,6 +9,9 @@ down in the main repository's `docs/spec/` before it is implemented there.
 |---|---|
 | [`reverb/`](reverb/README.md) | the diffused FDN reverb research (model and parity checks in the main repository, `scripts/reverb/model/`) |
 
+A shared, device-agnostic toolkit is proposed in
+[`docs/toolkit-design.md`](docs/toolkit-design.md); it is not built yet.
+
 ## Rules
 
 The main repository's [AGENTS.md](https://github.com/suhina-daw/suhina-daw/blob/main/AGENTS.md)
