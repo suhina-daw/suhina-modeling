@@ -8,6 +8,7 @@ down in the main repository's `docs/spec/` before it is implemented there.
 | Folder | Device |
 |---|---|
 | [`reverb/`](reverb/README.md) | the diffused FDN reverb research (model and parity checks in the main repository, `scripts/reverb/model/`) |
+| [`saturator/`](saturator/README.md) | project-verified capture timelines, native device renders, per-mode measurements and listening packages |
 
 A shared, device-agnostic toolkit is proposed in
 [`docs/toolkit-design.md`](docs/toolkit-design.md); it is not built yet.
